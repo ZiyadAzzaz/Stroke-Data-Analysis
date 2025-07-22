@@ -54,7 +54,7 @@ Stroke-Data-Analysis/
 
 ## 📈 Sample Visualizations
 
-👉 **[View the Full Notebook Here](https://github.com/ZiyadAzzaz/Stroke_Data_Analysis/blob/main/Stroke_Data_Analysis.ipynb)**
+👉 **[View the Full Notebook Here](https://github.com/ZiyadAzzaz/Stroke-Data-Analysis/blob/main/Stroke_Analysis.ipynb)**
 
 - 📌 Distribution of age among stroke and non-stroke patients  
 - 📌 Correlation heatmap of health features  
